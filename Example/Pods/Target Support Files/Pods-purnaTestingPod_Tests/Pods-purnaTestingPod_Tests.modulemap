@@ -1,0 +1,6 @@
+framework module Pods_purnaTestingPod_Tests {
+  umbrella header "Pods-purnaTestingPod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

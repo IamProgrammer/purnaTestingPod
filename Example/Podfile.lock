@@ -1,0 +1,16 @@
+PODS:
+  - purnaTestingPod (0.1.0)
+
+DEPENDENCIES:
+  - purnaTestingPod (from `../`)
+
+EXTERNAL SOURCES:
+  purnaTestingPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  purnaTestingPod: 4eaf073318a9e92eec5e60a8ded35030c2548563
+
+PODFILE CHECKSUM: 1fcac6a96eea14f4f77df2e9a6a7455705983218
+
+COCOAPODS: 1.0.1

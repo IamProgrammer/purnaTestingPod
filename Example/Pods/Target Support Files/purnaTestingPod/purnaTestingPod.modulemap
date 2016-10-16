@@ -1,0 +1,6 @@
+framework module purnaTestingPod {
+  umbrella header "purnaTestingPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
